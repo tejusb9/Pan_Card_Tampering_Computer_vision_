@@ -8,11 +8,11 @@ class Config(object):
     
     basedir    = os.path.abspath(os.path.dirname(__file__))
 
-    SECRET_KEY = 'pianalytix'
+    SECRET_KEY = 'tejusb9'
 
     DB_NAME = "production-db"
     DB_USERNAME = "root"
-    DB_PASSWORD = "pianalytix"
+    DB_PASSWORD = "tejusb9"
 
     UPLOADS = "/home/username/app/app/static/uploads"
 
